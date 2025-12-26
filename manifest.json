@@ -1,0 +1,9 @@
+{
+  "id": "weekly-ai-review",
+  "name": "Weekly AI Review",
+  "version": "0.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "Summarizes weekly notes using AI",
+  "author": "didopimentel",
+  "isDesktopOnly": false
+}
